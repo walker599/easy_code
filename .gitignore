@@ -2,5 +2,6 @@
 .DS_Store
 .agent_cli_history
 .agent_memory.json
-agent
+/agent
+
 
