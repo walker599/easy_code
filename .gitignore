@@ -1,0 +1,4 @@
+.env
+agent
+.DS_Store
+.agent_cli_history
